@@ -13,6 +13,7 @@
   - [fish](#fish) -> Fish shell, replacement for `bash`
   - [nodejs](#nodejs)
   - [npm](#npm)
+  - [npx](#npx) -> Run npm packages without installing them globally.
 
 ### tmux
 Terminology:
