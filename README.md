@@ -11,6 +11,8 @@
   - [go](#go)-> Go Lang
   - [countdown](#countdown) -> Countdown timer in Go
   - [fish](#fish) -> Fish shell, replacement for `bash`
+  - [nodejs](#nodejs)
+  - [npm](#npm)
 
 ### tmux
 Terminology:
