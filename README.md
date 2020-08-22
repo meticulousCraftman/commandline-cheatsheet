@@ -2,12 +2,15 @@
 
 ## Index
   - [tmux](#tmux)
-  - [vim](#vim)
-  - [exa](#exa)
-  - [bat](#bat)
-  - [rg](#rg)
-  - [fx](#fx)
-
+  - [vim](#vim) -> Text editor
+  - [exa](#exa) -> Replacement for `ls`
+  - [bat](#bat) -> Replacement for `bat`
+  - [rg](#rg) -> Replacement for `grep`
+  - [fx](#fx) -> JSON document viewer
+  - [cargo](#cargo) -> Rust Lang
+  - [go](#go)-> Go Lang
+  - [countdown](#countdown) -> Countdown timer in Go
+  - [fish](#fish) -> Fish shell, replacement for `bash`
 
 ### tmux
 Terminology:
