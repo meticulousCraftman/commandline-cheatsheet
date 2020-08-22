@@ -1,6 +1,15 @@
 # Cheatsheet
 
-## tmux
+## Index
+  - [tmux](#tmux)
+  - [vim](#vim)
+  - [exa](#exa)
+  - [bat](#bat)
+  - [rg](#rg)
+  - [fx](#fx)
+
+
+### tmux
 Terminology:
   - `C-` : Control Key
   - `M-` : Meta Key / Alt
@@ -43,4 +52,17 @@ Commands:
   - `C-b w` -> Starts sessions expanded with windows
   - [Tree mode] `q` -> Quit in tree mode
 
-## vim
+### vim
+Commands for vim
+
+### exa
+Commands for exa
+
+### bat
+Commands for bat
+
+### rg
+Commands for rg
+
+### fx
+Commands for fx
